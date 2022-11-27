@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/edusiles">
-  <img height="170em" width="340" src="https://github-readme-stats.vercel.app/api?username=edusiles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusiles&layout=compact&langs_count=16&theme=dark"/>
+  <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=edusiles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusiles&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ## ⚙ Technologies:
