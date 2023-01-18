@@ -18,7 +18,6 @@
   <img align="center" alt="Siles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Siles-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Siles-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Siles-GIF" height="160" width="160" src="https://i.picasion.com/pic92/f1a1a85f1eaf675c75c633b0a2e51ae2.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a>
 </div>
 
 ## 🔗 Social Networks:
