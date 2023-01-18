@@ -19,7 +19,8 @@
   <img align="center" alt="Siles-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Siles-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
-
+<br> 
+  
 ## 🔗 Social Networks:
 <div>
   <a href="https://www.linkedin.com/in/edu-siles05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
