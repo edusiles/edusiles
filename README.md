@@ -1,7 +1,6 @@
 ## 👋 Hello, I'm Eduardo Siles, welcome to my profile! 
 
 - 💻 I'm studying Computer Engineering at Universidade Federal de Itajubá - UNIFEI
-- 📚 I'm learning web development
 
 ## 📊 GitHub Stats:
 
